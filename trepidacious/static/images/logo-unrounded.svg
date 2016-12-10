@@ -1,0 +1,44 @@
+<svg width="937" height="1080" viewBox="0 0 937 1080" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>tree-cube</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-4450 -4316)" figma:type="canvas">
+<g id="tree-cube" style="mix-blend-mode:normal;" figma:type="frame">
+<g id="cube" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(4450.91 4316)" fill="#37474F" style="mix-blend-mode:normal;"/>
+</g>
+<g id="cube-light" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path1_fill" transform="translate(4450.91 4586)" fill="#FFECB2" fill-opacity="0.12" style="mix-blend-mode:normal;"/>
+</g>
+<g id="cube-shade" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path2_fill" transform="translate(4918.57 4586)" fill="#080028" fill-opacity="0.2" style="mix-blend-mode:normal;"/>
+</g>
+<g id="outline" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path3_fill" transform="translate(4528.86 4496)" fill="#C4C4C4" style="mix-blend-mode:normal;"/>
+</g>
+<g id="branch4" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path4_fill" transform="translate(4918.57 4586)" fill="#EB5757" style="mix-blend-mode:normal;"/>
+</g>
+<g id="branch3" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path5_fill" transform="translate(4840.63 4721)" fill="#FFC400" style="mix-blend-mode:normal;"/>
+</g>
+<g id="branch2" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path6_fill" transform="translate(4684.74 4541)" fill="#16E5E5" style="mix-blend-mode:normal;"/>
+</g>
+<g id="branch1" style="mix-blend-mode:normal;" figma:type="vector">
+<use xlink:href="#path7_fill" transform="translate(4528.86 4496)" fill="#AD82F9" style="mix-blend-mode:normal;"/>
+<use xlink:href="#path8_fill" transform="translate(4528.86 4496)" fill="#AD82F9" style="mix-blend-mode:normal;"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 270.001L 467.653 0L 935.307 270.001L 935.307 810L 467.654 1080L 3.66211e-05 810L 0 270.001Z"/>
+<path id="path1_fill" d="M 3.66211e-05 540L 0 0L 467.654 270L 467.654 809.999L 3.66211e-05 540Z"/>
+<path id="path2_fill" d="M 0 809.999L 0 270L 467.654 0L 467.654 540L 0 809.999Z"/>
+<path id="path3_fill" d="M 155.885 315L 155.885 225L 233.827 180L 155.885 135L 77.9423 90L 155.885 45L 233.827 0L 311.769 45L 233.827 90L 311.769 135L 389.711 89.9999L 467.654 44.9999L 545.596 90L 467.654 135L 389.711 180L 311.769 225L 233.827 270L 233.827 360L 233.827 450L 311.769 495L 311.769 405L 389.711 450L 467.654 405L 467.654 315L 389.711 270L 467.654 225L 545.596 270L 545.596 360L 545.596 450L 467.654 495L 389.711 540L 389.711 630.001L 467.654 585L 545.596 540L 623.538 495L 623.538 405L 623.538 315L 623.538 225L 545.596 180L 623.538 135L 701.48 89.9999L 779.423 135.001L 701.481 180.001L 701.481 270.001L 701.481 360.001L 701.481 450.001L 701.481 540L 623.538 585L 545.596 630.001L 467.654 675.001L 389.711 720.001L 389.711 810L 311.769 765L 311.769 675.001L 311.769 585L 233.827 540L 155.885 495L 77.9423 450.001L 0 405.001L 0 315.001L 0 225.001L 77.9423 270.001L 77.9423 360.001L 155.885 405L 155.885 315Z"/>
+<path id="path4_fill" d="M 311.769 450.001L 233.827 495.001L 155.885 540.001L 77.9423 585.001L 0 630.001L 0 540.001L 77.9423 495.001L 155.885 450.001L 233.827 405.001L 233.827 315.001L 233.827 225.001L 233.827 135L 155.884 90.0001L 233.827 45L 311.769 0L 389.712 45.0007L 311.769 90.0007L 311.769 180.001L 311.769 270.001L 311.769 360.001L 311.769 450.001Z"/>
+<path id="path5_fill" d="M 77.9423 405.001L 77.9423 315L 155.885 270L 233.827 225L 233.827 135.001L 233.827 45.0005L 155.884 0L 77.9422 45.0001L 155.885 90.0005L 155.885 180L 77.9423 225L 0 180L 0 270L 0 360L 0 450.001L 0 540L 77.9423 585L 77.9423 495.001L 77.9423 405.001Z"/>
+<path id="path6_fill" d="M 0 270.001L 0 180L 77.9421 135L 155.884 90L 233.827 45.0001L 311.769 0L 389.711 45.0001L 311.769 90.0001L 233.827 135L 155.884 180L 77.9423 225.001L 77.9423 315.001L 77.9423 405.001L 155.885 450.001L 155.885 540.001L 77.9423 495.001L 0 450.001L 0 360.001L 0 270.001Z"/>
+<path id="path7_fill" d="M 77.9423 360.001L 77.9423 270.001L 0 225.001L 0 315.001L 0 405.001L 77.9423 450.001L 155.885 495L 155.885 405L 77.9423 360.001Z"/>
+<path id="path8_fill" d="M 311.769 45L 233.827 0L 155.885 45L 77.9423 90L 155.885 135L 233.827 180L 311.769 135L 233.827 90L 311.769 45Z"/>
+</defs>
+</svg>
